@@ -1,0 +1,2 @@
+# PyTimeLapse
+Time lapse utility
